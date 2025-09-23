@@ -1,0 +1,7 @@
+1. In the product references, hopefully you can add one FOFA and one Shodan link, instead of 2 FOFA links.
+
+2. Kindly mention in the other important links as NA
+
+3. In the important notes you can give the ticket ID or link towards the ticket where the title Transmission Web Interface has been covered.
+
+4.  ESMTP Sendmail(?: Sentrion-MTA-)?(?: Switch-)?(?: ([\d\.]+))?[\d\.\/]+
